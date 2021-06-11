@@ -1,5 +1,4 @@
 ![Years Badge](https://badges.pufler.dev/years/Aditya-Raj-Tiwari) ![Repos Badge](https://badges.pufler.dev/repos/Aditya-Raj-Tiwari) ![Gists Badge](https://badges.pufler.dev/gists/Aditya-Raj-Tiwari)
-
 <img src="./up.gif" width="1000px"/>
 
 <p style="text-align: center">I am a Frontend Webdeveloper / Python Developer currently staying and studying in Hamburg Germany</p>
