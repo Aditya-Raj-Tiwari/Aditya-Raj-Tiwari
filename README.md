@@ -1,4 +1,3 @@
-# Hi there 👋 I am Aditya !
 <img src="./up.gif" width="1000px"/>
 
 <p style="text-align: center">I am a Frontend Webdeveloper / Python Developer currently staying and studying in Hamburg Germany</p>
