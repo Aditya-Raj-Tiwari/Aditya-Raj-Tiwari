@@ -1,4 +1,4 @@
-[![Visits Badge](https://badges.pufler.dev/visits/Aditya-Raj-Tiwari/Aditya-Raj-Tiwari)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/Aditya-Raj-Tiwari)](https://badges.pufler.dev)
+![Years Badge](https://badges.pufler.dev/years/Aditya-Raj-Tiwari) ![Repos Badge](https://badges.pufler.dev/repos/Aditya-Raj-Tiwari)
 
 <img src="./up.gif" width="1000px"/>
 
