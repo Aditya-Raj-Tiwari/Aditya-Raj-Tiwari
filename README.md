@@ -1,3 +1,5 @@
+[![Visits Badge](https://badges.pufler.dev/visits/Aditya-Raj-Tiwari/Aditya-Raj-Tiwari)](https://badges.pufler.dev)
+
 <img src="./up.gif" width="1000px"/>
 
 <p style="text-align: center">I am a Frontend Webdeveloper / Python Developer currently staying and studying in Hamburg Germany</p>
@@ -11,7 +13,9 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Raj-Tiwari&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 
 
 
