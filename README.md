@@ -1,6 +1,6 @@
 ![Years Badge](https://badges.pufler.dev/years/Aditya-Raj-Tiwari) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Repos Badge](https://badges.pufler.dev/repos/Aditya-Raj-Tiwari)
 
-# Art Tiwari or Aditya Tiwari
+# You may know me as Art Tiwari or Aditya Tiwari
 
 <img src="./up.gif" width="1000px"/>
 
