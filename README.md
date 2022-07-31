@@ -1,4 +1,4 @@
-# Hi There <img src="./hi.gif" width="800px"/>
+# Hi There <img src="./Hi.gif" width="800px"/>
 
 
 <img src="./up.gif" width="800px"/>
