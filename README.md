@@ -1,7 +1,7 @@
 # Hi There 👋🏽
 
 
-<img src="./up.gif" width="800px"/>
+<img src="./hi.gif" width="800px"/>
 
 
 > I found programming as this magical tool to solve the most complex problems. I break them down and enjoysolving each and every one of them with nothing butif and elsestatements. 🤘
