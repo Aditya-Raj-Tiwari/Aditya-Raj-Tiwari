@@ -1,7 +1,7 @@
 # Hi There <img src="./Hi.gif" width="50px"/>
 
 
-<img src="./up.gif" width="800px" style="margin-left:20px"/>
+<img src="./github-header-image.png" width="800px" style="margin-left:20px"/>
 
 
 > I found programming as this magical tool to solve the most complex problems. I break them down and enjoysolving each and every one of them with nothing butif and elsestatements. 🤘
