@@ -8,7 +8,7 @@
 
 ## my social profiles :handshake:
 
-# Latest Project [Strapi integrated website] (https://relaunch.webimpact.app/)
+# Latest Project [Strapi integrated website](https://relaunch.webimpact.app/)
 
 
 <a href="https://www.linkedin.com/in/aditya-raj-tiwari/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
