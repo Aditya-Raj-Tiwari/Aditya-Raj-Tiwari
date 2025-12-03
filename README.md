@@ -1,16 +1,22 @@
 # Hi, I'm Aditya Raj Tiwari 👋
 
-Computer Science student at **Technical University of Munich** with 5 years of software development experience, specializing in frontend web development.
+Computer Science student at **Technical University of Munich** with 5 years of software development experience, specializing in AI automation and frontend web development.
 
 > *"Programming is a magical tool to solve the most complex problems. I break them down and solve each one with elegant code."*
 
 ## 🚀 Current Work
-**Frontend Web Developer** @ [WebImpact GmbH](https://www.webimpact.io/) *(Jan 2023 - Present)*
-- Developing with Nuxt, Pinia, Vue.js, Next.js, Redux, React
-- Shop system development with Plenty Markets & Shopware (Vue.js, TWIG)
-- Headless CMS development with Strapi
+**AI Automation Engineer** @ [Evolvet](https://www.evolvet.de/) *(Feb 2024 - Present)*
+- LoRA fine-tuning for specialized LLM applications
+- Workflow automation with n8n
+- LLM training and integration
+- AI-powered business process automation
 
 ## 💼 Experience
+**Frontend Web Developer** @ [WebImpact GmbH](https://www.webimpact.io/) *(Jan 2023 - Feb 2024)*
+- Developed with Nuxt, Pinia, Vue.js, Next.js, Redux, React
+- Shop system development with Plenty Markets & Shopware
+- Headless CMS development with Strapi
+
 **Frontend Web Developer** @ Morgenland Teppich *(Sep 2020 - Feb 2023)*
 - Led frontend team for project development
 - Vue.js, Bootstrap, CSS/SCSS, TWIG
@@ -40,12 +46,13 @@ Developed algorithmic trading strategies in Python during Optiver hackathon. Com
 
 ## 💻 Tech Stack
 **Languages:** JavaScript, TypeScript, Python, Java, OCaml  
+**AI/ML:** LLM Training, LoRA Fine-tuning, GPT-4, LangChain  
+**Automation:** n8n, Workflow Automation  
 **Frontend:** React, Next.js, Vue, Nuxt, Redux, Pinia  
 **Styling:** Tailwind, SASS, Bootstrap, CSS  
 **Backend:** Strapi, Node.js  
 **E-commerce:** Shopware, Plenty Markets  
 **Tools:** Git, Webpack, Figma, TWIG  
-**AI/ML:** GPT-4, LangChain
 
 ## 🌍 Languages
 🇳🇵 **Nepali** (Native) | 🇬🇧 **English** (C2) | 🇩🇪 **German** (C1)
@@ -60,4 +67,4 @@ Developed algorithmic trading strategies in Python during Optiver hackathon. Com
 
 ---
 
-💡 *Open to opportunities in software development and innovative tech projects*
+💡 *Open to opportunities in AI/ML, automation, and full-stack development*
